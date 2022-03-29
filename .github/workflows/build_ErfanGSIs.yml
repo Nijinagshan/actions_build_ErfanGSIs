@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.9.0.SKACNXM/miui_STAR_V13.0.9.0.SKACNXM_a9593ed07e_12.0.zip
+  ROM_URL: miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
